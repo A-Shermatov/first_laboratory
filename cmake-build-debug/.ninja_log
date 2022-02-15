@@ -1,0 +1,12 @@
+# ninja log v5
+3222	3546	6666269167683484	untitled.exe	2a5deb4947d68582
+5	758	6666279765672676	build.ninja	a79c08d553b22f7b
+3	943	6666279765672676	build.ninja	a79c08d553b22f7b
+16	2880	6666279796579547	CMakeFiles/first_laboratory.dir/search_min.cpp.obj	1ff661c23c88004b
+1	3125	6666279799009691	CMakeFiles/first_laboratory.dir/checking_number.cpp.obj	b4a9b65e997c7dc7
+9	3295	6666279800769994	CMakeFiles/first_laboratory.dir/main.cpp.obj	88da44c39cfddcf3
+3296	3596	6666279803736692	first_laboratory.exe	39cda10215be0dee
+45	2703	6666303069245816	CMakeFiles/first_laboratory.dir/search_min.cpp.obj	1ff661c23c88004b
+6	2707	6666303069275821	CMakeFiles/first_laboratory.dir/checking_number.cpp.obj	b4a9b65e997c7dc7
+51	2726	6666303069565790	CMakeFiles/first_laboratory.dir/main.cpp.obj	88da44c39cfddcf3
+2726	3104	6666303073335592	first_laboratory.exe	39cda10215be0dee
