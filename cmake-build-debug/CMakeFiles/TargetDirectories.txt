@@ -1,3 +1,0 @@
-C:/Users/azamat/CLionProjects/first_laboratory/cmake-build-debug/CMakeFiles/first_laboratory.dir
-C:/Users/azamat/CLionProjects/first_laboratory/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/azamat/CLionProjects/first_laboratory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
